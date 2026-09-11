@@ -7,6 +7,6 @@ image=cv2.circle(
     (0, 200, 270),
     3
 )
-cv2.imshow("My Image", image)
+cv2.imshow("My Image 1", image)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
